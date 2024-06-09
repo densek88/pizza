@@ -113,6 +113,15 @@ p{
     overflow:hidden;
 }
 
+.section_2_10{
+    width: 100%;
+    height: auto;
+}
+.section_2_05{
+    width: 100%;
+    height: auto;
+}
+
 .image-container{
     overflow:hidden;
     height:100%;
