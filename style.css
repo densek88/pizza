@@ -20,10 +20,10 @@ h1{
   letter-spacing: .2rem;
 }
 p{
-    font-family:"Franklin Gothic Medium";
+    font-family: "Poppins", sans-serif;
     color:#43515c;
     font-size:24px;
-    font-weight:100;
+    font-weight:300;
     z-index: 999;
 }
 
